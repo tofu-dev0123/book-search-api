@@ -1,0 +1,14 @@
+# Claude Code の個人用オーバーライド（settings.json はコミットする）
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Go のビルド成果物
+/api
+/loader
+*.test
+*.out
+
+# 環境変数
+.env
+
+.DS_Store
