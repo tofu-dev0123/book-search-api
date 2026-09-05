@@ -8,6 +8,9 @@ CLAUDE.local.md
 *.test
 *.out
 
+# direnv の生成物（.envrc はコミットする）
+.direnv/
+
 # 環境変数
 .env
 
